@@ -5,6 +5,19 @@
 A structured analysis of a real-world marketing experiment across ~588,000 users, examining whether ad exposure meaningfully increases conversion rates compared to a neutral PSA control.
 
 ---
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?logo=numpy)
+![SciPy](https://img.shields.io/badge/SciPy-Statistical%20Testing-8CAAE6?logo=scipy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557c)
+![A/B Testing](https://img.shields.io/badge/Focus-A%2FB%20Testing-success)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Data Size](https://img.shields.io/badge/Data-588K%20Rows-informational)
+
+</div>
+---
 
 ## Background
 
