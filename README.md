@@ -2,9 +2,6 @@
 
 # Marketing A/B Test Analysis - Do Ads Actually Drive Conversions?
 
-A structured analysis of a real-world marketing experiment across ~588,000 users, examining whether ad exposure meaningfully increases conversion rates compared to a neutral PSA control.
-
----
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
@@ -17,7 +14,13 @@ A structured analysis of a real-world marketing experiment across ~588,000 users
 ![Data Size](https://img.shields.io/badge/Data-588K%20Rows-informational)
 
 </div>
+
 ---
+
+A structured analysis of a real-world marketing experiment across ~588,000 users, examining whether ad exposure meaningfully increases conversion rates compared to a neutral PSA control.
+
+---
+
 
 ## Background
 
